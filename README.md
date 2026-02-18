@@ -37,7 +37,12 @@ Risk levels are relative, ensuring fair comparison
 Crime data analyzed across years (e.g., 2025)
 Helps understand how crime patterns change over time
 
-## Key Concepts Used
+## OUTPUT
+<img width="1422" height="1020" alt="Screenshot 2026-02-18 182102" src="https://github.com/user-attachments/assets/962d2ffa-771b-49b3-b3b6-1ce92ac796a9" />
+<img width="1444" height="1016" alt="Screenshot 2026-02-18 182130" src="https://github.com/user-attachments/assets/af88e8d5-cb06-4cc7-9d6b-a8bd231b6404" />
+<img width="1884" height="1006" alt="Screenshot 2026-02-18 182155" src="https://github.com/user-attachments/assets/d8a51839-9261-4b57-af5e-e0514d1f1967" />
+
+## Key Concepts Us
 Data Cleaning & Aggregation
 Exploratory Data Analysis (EDA)
 Percentile-based risk classification
